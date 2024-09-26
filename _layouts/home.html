@@ -104,13 +104,13 @@ layout: base
         </div>
       </div>
       <div class="tarja-model-foto-prou">
-        <div class="tarja-full-image" style="background-image: url('{{ post.image | escape }}') ;">
+        <div class="tarja-full-image" style="background-image: url('{{ post.image | absolute_url }}') ;">
           <div class="tarja-header-fons-text" style="margin: 75px 0; font-size: 24px">{{ post.title | escape }}</div>
           <div class="tarja-header-fons-data">{{ post.date | date: date_format }}</div>
         </div>
       </div>
       <div class="tarja-model-foto-content">
-        <div class="tarja-header-fons"  style="background-image: url('{{ post.image | escape }}') ;"> 
+        <div class="tarja-header-fons"  style="background-image: url('{{ post.image | absolute_url }}') ;"> 
         <div class ="tarja-header-fons-text">{{ post.title | escape }}</div>
         </div>
         <div class="tarja-cos-content"> 

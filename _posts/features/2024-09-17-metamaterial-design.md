@@ -14,7 +14,7 @@ Swan can be used to **design materials** in many diﬀerent ways, including:
 
 This is one of the main lines of research of Swan's developers. 
 <figure>
-  <img src="/assets/images/features/hero-materials.gif" alt="Negative Poisson material"/>
+  <img src="{{site.url}}/assets/images/features/hero-materials.gif" alt="Negative Poisson material"/>
   <figcaption>Metamaterial with a negative Poisson's ratio.</figcaption>
 </figure>
 

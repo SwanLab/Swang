@@ -14,12 +14,12 @@ Swan can **dehomogenize optimal solutions** in order to obtain feasible lattice 
 - Manufacturability ensured through constraints
 
 <figure>
-  <img src="/assets/images/features/hero-lattice.png" alt="my alt text"/>
+  <img src="{{site.url}}/assets/images/features/hero-lattice.png" alt="2D lattice"/>
   <figcaption> Lattice structures optimally designed for lightweight applications.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/news/coolstuff/Lattice.gif" alt="my alt text"/>
+  <img src="{{site.url}}/assets/images/news/coolstuff/Lattice.gif" alt="3D lattice"/>
   <figcaption> Optimizaiton of a 3D lattice structure.</figcaption>
 </figure>
 

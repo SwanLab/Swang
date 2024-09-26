@@ -16,7 +16,7 @@ excerpt_separator: <!--end_excerpt-->
 
 
 <figure>
-  <img src="/assets/images/features/hero-additivemanufacturing.png" alt="Effect of limiting the minimum length scale on the final optimized result."/>
+  <img src="{{site.url}}/assets/images/features/hero-additivemanufacturing.png" alt="Effect of limiting the minimum length scale on the final optimized result."/>
   <figcaption>Effect of limiting the minimum length scale on the final optimized result.</figcaption>
 </figure>
 

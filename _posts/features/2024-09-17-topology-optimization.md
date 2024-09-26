@@ -12,7 +12,7 @@ Of course, Swan is capable of solving **topology optimization** problems like ot
 
 
 <figure>
-  <img src="/assets/images/features/hero-topopt-bridge.gif" alt="Topology optimization example"/>
+  <img src="{{site.url}}/assets/images/features/hero-topopt-bridge.gif" alt="Topology optimization example"/>
   <figcaption>Topology optimization of a 3D bridge.</figcaption>
 </figure>
 
