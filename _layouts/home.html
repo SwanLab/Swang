@@ -49,7 +49,7 @@ layout: base
     
     
       <div class="ag-courses_item">
-        <a href="{{ post.url | relative_url }}" class="post-link ag-courses-item_link">
+        <a href="{{ post.url | absolute_url }}" class="post-link ag-courses-item_link">
           <div class="ag-courses-item_bg"></div>
     
           <div class="ag-courses-item_title">
@@ -89,7 +89,7 @@ layout: base
   {% unless post.categories contains 'feature' %}
   <div class = "tarja">
 
-    <a href="{{ post.url | relative_url }}">
+    <a href="{{ post.url | absolute_url }}">
       <div class="tarja-model-text">
         <div class="tarja-header-color"> 
         <div class ="tarja-header-color-text">
