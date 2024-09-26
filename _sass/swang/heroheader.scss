@@ -3,10 +3,6 @@ $verd-maco: darken(#3ecd5e, 5%);
 $groc-maco: #f9b234;
 $blau-maco: rgb(13, 110, 253);
 
-.goinghome .localhero::before {
-  content: '{{ site.url }}/assets/images/mix.png'
-}
-
 .goinghome .localhero {
   margin-top: 25px;
   background-image: url('/assets/images/mix.png');
